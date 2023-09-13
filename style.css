@@ -5,7 +5,6 @@
 .learn-header { font-size: 3.1vw;}
 .p-header {
     font-size: 1.3vw;
-    width: 550px;
 }
 .button-header {
     font-weight: 400;
@@ -25,5 +24,8 @@
     .button-header {
         font-size: 18px;
         padding: 24px 101px;
+    }
+    #footer-email {
+        width: 100%;
     }
 }
