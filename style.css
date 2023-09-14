@@ -3,21 +3,36 @@
     font-family: 'Poppins', sans-serif;
 }
 .learn-header { font-size: 3.1vw;}
+
 .p-header {
     font-size: 1.3vw;
 }
+
+.margining {
+    margin-top: 100px;
+}
+
 .button-header {
     font-weight: 400;
     padding: 1.8vw 7vw;
     border-radius: 15px;
     font-size: 1.8vw;
 }
-.lesson { margin-top: 26%; }
-.header {
-    height: 100vh;
-    margin-top: 50px;
+
+.lesson 
+{ 
+    margin-top: 26%; 
 }
-.card-section-1 { background-color: #F5F5F5;}
+
+.header {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.card-section-1 
+{ 
+    background-color: #F5F5F5;
+}
+
 @media screen and (max-width: 767px) {
     .p-header { font-size: 16px; }
     .learn-header { font-size: 36px;}
